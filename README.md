@@ -25,4 +25,4 @@ in no particular order:
 - Fitness & gym tracking  
 - Mountain biking  
 
-_✨ I love making simple things smarter – whether on my phone or my PC ✨_
+_I love making simple things smarter – whether on my phone or my PC_
