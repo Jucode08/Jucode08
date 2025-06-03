@@ -22,7 +22,7 @@ in no particular order:
 
 - Web development (frontend & backend)  
 - Automation & productivity tools  
-- Fitness & gym tracking  
+- Fitness & gym  
 - Mountain biking  
 
 _I love making simple things smarter – whether on my phone or my PC_
